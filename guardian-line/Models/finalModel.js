@@ -3,6 +3,7 @@
 
 // if NOT FRAUD > FRAUD okay
 // else AI MODEL Result if attachment provided
+// Evaluation Model below
 
 let numVolunteerSaysFraud;
 let numVolunteerSaysNoFraud;
